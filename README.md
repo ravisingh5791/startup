@@ -1,2 +1,2 @@
 # startup
-my first demo page for git hub
+my first demo page for git hub.
